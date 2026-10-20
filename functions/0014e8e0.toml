@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:01.338467Z
+addr = 0x14e8e0
+size = 0x3b
+name = "CCommandLine_HasParmUnrestricted"
+type = "long long"
+
+[header]
+name = "CCommandLine_HasParmUnrestricted"
+addr = 0x14e8e0
+type = "long long"
+
+[header.args]

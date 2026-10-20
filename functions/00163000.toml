@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:01.338519Z
+addr = 0x163000
+size = 0x85c
+name = "CCvar_RegisterConCommand"
+type = "long long"
+
+[header]
+name = "CCvar_RegisterConCommand"
+addr = 0x163000
+type = "long long"
+
+[header.args]

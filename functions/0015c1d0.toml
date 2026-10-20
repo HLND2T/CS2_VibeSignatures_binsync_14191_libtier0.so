@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:01.338518Z
+addr = 0x15c1d0
+size = 0x13c
+name = "CCvar_LockConVarValueInitialisation"
+type = "long long"
+
+[header]
+name = "CCvar_LockConVarValueInitialisation"
+addr = 0x15c1d0
+type = "long long"
+
+[header.args]

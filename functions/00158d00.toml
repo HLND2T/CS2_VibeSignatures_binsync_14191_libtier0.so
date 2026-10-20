@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:01.338505Z
+addr = 0x158d00
+size = 0x206
+name = "CCvar_ResetConVarsToDefaultValuesByFlag"
+type = "long long"
+
+[header]
+name = "CCvar_ResetConVarsToDefaultValuesByFlag"
+addr = 0x158d00
+type = "long long"
+
+[header.args]

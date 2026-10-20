@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:01.338494Z
+addr = 0x151240
+size = 0x143
+name = "CCommandLine_CreateCmdLinePrependAppName"
+type = "long long"
+
+[header]
+name = "CCommandLine_CreateCmdLinePrependAppName"
+addr = 0x151240
+type = "long long"
+
+[header.args]

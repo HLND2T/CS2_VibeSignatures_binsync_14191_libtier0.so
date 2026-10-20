@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:01.338515Z
+addr = 0x15bac0
+size = 0x17d
+name = "CCvar_CallGlobalChangeCallbacks"
+type = "long long"
+
+[header]
+name = "CCvar_CallGlobalChangeCallbacks"
+addr = 0x15bac0
+type = "long long"
+
+[header.args]

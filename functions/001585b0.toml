@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:01.338501Z
+addr = 0x1585b0
+size = 0x14a
+name = "CCvar_FindNextConVar"
+type = "long long"
+
+[header]
+name = "CCvar_FindNextConVar"
+addr = 0x1585b0
+type = "long long"
+
+[header.args]

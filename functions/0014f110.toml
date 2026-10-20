@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:01.338486Z
+addr = 0x14f110
+size = 0x87
+name = "CCommandLine_CheckParm"
+type = "long long"
+
+[header]
+name = "CCommandLine_CheckParm"
+addr = 0x14f110
+type = "long long"
+
+[header.args]

@@ -1,0 +1,55 @@
+[0x1582cd]
+last_change = 2026-10-20T15:12:02.224944Z
+addr = 0x1582cd
+func_addr = 0x158250
+comment = "0x68 = 104LL = ICvar_FindNextConVar"
+decompiled = false
+
+[0x1582d0]
+last_change = 2026-10-20T15:12:02.225305Z
+addr = 0x1582d0
+func_addr = 0x158250
+comment = "0x68 = 104LL = ICvar_FindNextConVar"
+decompiled = true
+
+[0x159a78]
+last_change = 2026-10-20T15:12:02.232723Z
+addr = 0x159a78
+func_addr = 0x159a10
+comment = "0x60 = 96LL = ICvar_FindFirstConVar"
+decompiled = false
+
+[0x159a7b]
+last_change = 2026-10-20T15:12:02.233055Z
+addr = 0x159a7b
+func_addr = 0x159a10
+comment = "0x60 = 96LL = ICvar_FindFirstConVar"
+decompiled = true
+
+[0x16391f]
+last_change = 2026-10-20T15:12:02.245182Z
+addr = 0x16391f
+func_addr = 0x163880
+comment = "0x88 = 136LL = ICvar_FindConCommand"
+decompiled = false
+
+[0x16392b]
+last_change = 2026-10-20T15:12:02.245515Z
+addr = 0x16392b
+func_addr = 0x163880
+comment = "0x88 = 136LL = ICvar_FindConCommand"
+decompiled = true
+
+[0x3f912e]
+last_change = 2026-10-20T15:12:02.249958Z
+addr = 0x3f912e
+func_addr = 0x3f8fa0
+comment = "0x70 = 112LL = ICvar_CallChangeCallback"
+decompiled = true
+
+[0x3f9150]
+last_change = 2026-10-20T15:12:02.249968Z
+addr = 0x3f9150
+func_addr = 0x3f8fa0
+comment = "0xB8 = 184LL = ICvar_CallGlobalChangeCallbacks"
+decompiled = true

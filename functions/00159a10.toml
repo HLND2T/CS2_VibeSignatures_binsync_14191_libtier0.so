@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:02.233055Z
+addr = 0x159a10
+size = 0x1e7
+name = "CCvar_CopyUserInfoCvarDefaults"
+type = "void"
+
+[header]
+name = "CCvar_CopyUserInfoCvarDefaults"
+addr = 0x159a10
+type = "void"
+
+[header.args]

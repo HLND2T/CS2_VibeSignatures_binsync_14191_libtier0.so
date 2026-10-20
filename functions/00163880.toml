@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:02.245515Z
+addr = 0x163880
+size = 0x10dd
+name = "CCvar_RegisterConVar"
+type = "void"
+
+[header]
+name = "CCvar_RegisterConVar"
+addr = 0x163880
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:01.338489Z
+addr = 0x1505c0
+size = 0x4e7
+name = "CCommandLine_BuildCmdLineFromArgList"
+type = "unsigned long long"
+
+[header]
+name = "CCommandLine_BuildCmdLineFromArgList"
+addr = 0x1505c0
+type = "unsigned long long"
+
+[header.args]

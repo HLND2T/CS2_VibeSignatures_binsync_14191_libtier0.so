@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:01.338510Z
+addr = 0x159c00
+size = 0x314
+name = "CCvar_FindConCommand"
+type = "long long"
+
+[header]
+name = "CCvar_FindConCommand"
+addr = 0x159c00
+type = "long long"
+
+[header.args]

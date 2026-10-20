@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:01.338516Z
+addr = 0x15bc40
+size = 0x24d
+name = "CCvar_CallChangeCallback"
+type = "void"
+
+[header]
+name = "CCvar_CallChangeCallback"
+addr = 0x15bc40
+type = "void"
+
+[header.args]

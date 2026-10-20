@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:02.249968Z
+addr = 0x3f8fa0
+size = 0x24c
+name = "ConVarRefAbstract_SetValueInternal"
+type = "long long"
+
+[header]
+name = "ConVarRefAbstract_SetValueInternal"
+addr = 0x3f8fa0
+type = "long long"
+
+[header.args]
